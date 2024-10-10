@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/aadarsh0777/Neon.png)](https://github.com/aadarsh0777/Neon-Music/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/aadarsh0777/Neon.png)](https://github.com/aadarsh0777/Neon-Music/issues)
-[![GitHub license](https://img.shields.io/github/license/aadarsh0777/Neon.svg)](https://github.com/aadarsh0777/Neon-Music/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/aadarsh0777/Neon.png)](https://github.com/aadarsh0777/Neon-Music/blob/main/LICENSE)
 
 Neon Music is a powerful and customizable Discord music bot framework that simplifies the process of creating feature-rich music bots for your Discord server. Whether you're a seasoned developer or just starting with Discord bot development, Avon provides a solid foundation for building a music bot tailored to your needs.
 
